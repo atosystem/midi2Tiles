@@ -11,13 +11,18 @@ Hence, I use matplotlib to create the piano tiles animation.
 
 The output video can futher be imported in video editting software such as After Effects as an overlay of your video.
 
+## Install
+```
+pip install midi2Tiles
+```
+
 ## Usage
 ```python
 # some video settings
 VIDEO_DPI = 1000
 VIDEO_FPS = 60
-VIDEO_WIDTH = 1080*2
-VIDEO_HEIGHT = 720*2
+VIDEO_WIDTH = 1080
+VIDEO_HEIGHT = 720
 
 # the proportion of keyboard display
 KB_RATIO = 0.1
