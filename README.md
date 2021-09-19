@@ -31,7 +31,7 @@ KB_RATIO = 0.1
 # notice that this value also affect the height of each tile
 TILE_VELOCITY = 500
 
-import pianoTileCreator
+from midi2Tiles import pianoTileCreator
 
 ptc = pianoTileCreator.PianoTileCreator(video_width=VIDEO_WIDTH,
                                         video_height=VIDEO_HEIGHT,
@@ -60,3 +60,6 @@ ptc.render("<output video file>",verbose=True)
 ## Author
 Ian Shih
 Email: yjshih23@gmail.com
+
+## Acknoledgement
+The ratio of the piano design is referenced from https://github.com/gin66/piano_keyboard
