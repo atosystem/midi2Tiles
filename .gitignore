@@ -1,0 +1,4 @@
+__pycache__/
+.DS_Store
+midi2Tiles.egg-info/
+dist/
