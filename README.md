@@ -61,5 +61,5 @@ ptc.render("<output video file>",verbose=True)
 Ian Shih
 Email: yjshih23@gmail.com
 
-## Acknoledgement
+## Acknowledgement
 The ratio of the piano design is referenced from https://github.com/gin66/piano_keyboard
