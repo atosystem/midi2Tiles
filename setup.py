@@ -6,7 +6,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name='midi2Tiles',
-    version='1.0.1',
+    version='1.0.2',
     description='Create synthesia-like piano tiles effect from midi files.',
     long_description=README,
     long_description_content_type="text/markdown",
