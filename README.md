@@ -1,4 +1,10 @@
 # midi2Tiles
+<p>
+<a href="https://github.com/atosystem/midi2Tiles/"><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/atosystem/midi2tiles/main"></a>
+<a href="https://github.com/atosystem/midi2Tiles/issues" target="_blank"><img alt="GitHub closed issues" src="https://img.shields.io/github/issues/atosystem/midi2tiles"></a>
+<a href="https://github.com/atosystem/midi2Tiles/pulls" target="_blank"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/atosystem/midi2tiles"></a>
+<a href="https://pypi.org/project/midi2Tiles/" target="_blank"><img src="https://img.shields.io/pypi/v/midi2tiles?color=green"/></a>
+</p>
 
 ## Demo
 ![](./example.gif)
